@@ -20,7 +20,4 @@ public class MainController {
     public String userPage() {
         return "/user/user";
     }
-
-
-
 }

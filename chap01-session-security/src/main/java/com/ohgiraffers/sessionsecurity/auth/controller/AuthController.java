@@ -19,5 +19,4 @@ public class AuthController {
         mv.setViewName("/auth/fail");
         return mv;
     }
-
 }
